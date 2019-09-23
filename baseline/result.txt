@@ -1,0 +1,4 @@
+Running on inpfiles/1yr2-hour_100yrmax_0.inp 203.01084774088167
+Running on inpfiles/1yr2-hour_1yrmax_0.inp 54.56920829993708
+Running on inpfiles/1yr2-hour_2yrmax_0.inp 121.53620224247297
+Running on inpfiles/25yr24-hour_100yrmax_0.inp 674.6305836538966
