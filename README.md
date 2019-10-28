@@ -20,6 +20,8 @@ There are a lot of moving parts to this, so specifying this with command line ar
 
 For now, main should just call the appropriate "run_swmm" file, i.e. whatever file everybody has already been working on.
 
+The venv/setup.py stuff is to be able to import stuff from other folders, without depending on each others machines. So different people, possibly with different os'es, can use the same file paths.
+
 ### Note on venv stuff
 I'm not sure what's the best practice here. (Or least worst)
 - track venv, packages, and python
@@ -28,6 +30,9 @@ I'm not sure what's the best practice here. (Or least worst)
 
 
 ## To Do
+
+Put Sami and I's work into here as a proof of concept.
+- If it works, we/I could start separating other stuff too.
 
 automate and separate neural network setup
 - Check if that's already automated if you're feeling lucky/excited
