@@ -16,22 +16,21 @@
 # rand.py: 2
 # reward_functions.py: 7
 # util.py: 1
-numpy == 1.16.4
+# numpy == 1.16.4
 
 # Env.py: 4
-pyswmm == 0.4.8
+# pyswmm == 0.4.8
 
 # util.py: 75
 # tensorflow_gpu == 1.14.0
 
 
-# tensorflow
-# keras
-# numpy
-# pyswmm
-# tensorflow_gpu
+tensorflow == 2.0.0-beta1
+keras
+numpy
+pyswmm
+tensorflow_gpu
 gym
-# matplotlib
-
-# rl
-# keras-rl
+matplotlib
+rl
+keras-rl

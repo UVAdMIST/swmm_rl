@@ -33,6 +33,8 @@ I'm not sure what's the best practice here. (Or least worst)
 
 Put Sami and I's work into here as a proof of concept.
 - If it works, we/I could start separating other stuff too.
+- This is done but I have the incorrect versions of the packages, which causes a problem
+
 
 automate and separate neural network setup
 - Check if that's already automated if you're feeling lucky/excited
@@ -44,6 +46,8 @@ Fix file paths
 - localize paths inside the project
 	- e.g. file paths should start inside the project's root, unless the paths are temporary. (command line arguments, setting files etc.)
 
+### To Do for Ben
+- edit requirements.txt with libraries/versions on his machine
 
 ## Installation
 
