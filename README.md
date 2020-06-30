@@ -6,3 +6,8 @@ Required packages:
 2. keras-rl (once installed, replace rl.core with modified file: core.py in this repo)
 3. openai-gym
 
+Codes for creating an RL environment from a SWMM input file and running RL are in the DDPG_Obs_Fcst folder. Weights for initializing the DDPG agent are included in that folder.
+
+Rule-based control of SWMM simulations can be performed with code in the RuleBasedControl folder.
+
+Passive (uncontrolled) SWMM simulations use code in the Passive folder.
