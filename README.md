@@ -1,5 +1,5 @@
 # swmm_rl
-This repository contains Python codes for using reinforcement learning with the U.S EPA's Stormwater Management Model (SWMM) to develop real-time control policies of stormwater systems.
+This repository contains Python codes for using reinforcement learning with the U.S EPA's Stormwater Management Model (SWMM) to develop real-time control policies of stormwater systems. Passive and Rule-based Control codes are included for comparison with RL.
 
 Required packages:
 1. pyswmm
